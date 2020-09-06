@@ -42,11 +42,9 @@ The final accuracy result on the testing part is about 94.34%.
 
 The later fine-tuning stage for training and evaluating is shown in the following image.
 
-![training accuracy](https://github.com/eepgxxy/ECO_PaddlePaddle
-/blob/master/training_results/train_1.png)
+![training accuracy](https://github.com/eepgxxy/ECO_PaddlePaddle/blob/master/training_results/train_1.png)
 
-![eval accuracy](https://github.com/eepgxxy/ECO_PaddlePaddle
-/blob/master/training_results/eval_1.png)
+![eval accuracy](https://github.com/eepgxxy/ECO_PaddlePaddle/blob/master/training_results/eval_1.png)
 
 ## Training on trainlist01 of UCF-101
 
