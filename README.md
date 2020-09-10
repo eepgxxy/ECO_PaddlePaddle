@@ -51,9 +51,9 @@ The later fine-tuning stage for training and evaluating is shown in the followin
 
 Preliminary training is also done on the trainlist01 of UCF-101 dataset and testing is done on testlist01. 
 
-In order to make the label ID starting from 0, the label IDs in classInd.txt file are each being decreased by 1 during training and testing.
+In order to use the pretrained model, we created a new label file myclassID.txt.
 
-The final accuracy result on the testing part is currently not optimal because of limited hardware capacity available resulting in small batch size. Further training using larger batch size is needed.
+The final accuracy result on the testing part is currently about 97.568%
 
 ## Other experiments
 
