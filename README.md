@@ -53,7 +53,7 @@ Preliminary training is also done on the trainlist01 of UCF-101 dataset and test
 
 In order to use the pretrained model, we created a new label file myclassID.txt.
 
-The final accuracy result on the testing part is currently about 97.568% for seg_num 12, 97.224% for seg_num 32.
+The final accuracy result on the testing part is currently about 97.568% for seg_num 12, 97.938% for seg_num 24, 97.224% for seg_num 32.
 
 Train and eval stages for seg_num 24 and seg_num 32 are illustrated by the following images:
 
